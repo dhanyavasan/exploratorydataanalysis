@@ -26,8 +26,8 @@ This dataset, obtained from the UCI Machine Learning Repository, comprises appro
     * 50% of coupons are accepted when traveling alone without co-passengers.
     * Only 7% of coupons are accepted when traveling with kids.
 5. ### Analyzing Acceptance Rate Across Categories
-    * for all coupon categories, the rejection rate exceeds the acceptance rate.
-    * The only exceptions are coupons for cheaper restaurants (Restaurant<20) and Carry Out & Take Away coupons, which have higher acceptance rates than rejection rates. This shows that Food Coupons are preferred widely.
+    * For all coupon categories, the rejection rate exceeds the acceptance rate.
+    * The only exceptions are the coupons for cheaper restaurants (Restaurant<20) and Carry Out & Take Away coupons. These have higher acceptance rates than rejection rates. This shows that Food Coupons are preferred widely.
 6. ### Analysing Food Coupons Based on Various Considerations
    * Impact Of Driving Direction
       * The acceptance rates of (Restaurant<20) and Carry Out & Take Away coupons are ~70% even when the assigned location is in the opposite direction of the destination.
@@ -35,7 +35,7 @@ This dataset, obtained from the UCI Machine Learning Repository, comprises appro
    * Impact of Passengers
       * Initially it was stated that only 7% of overall coupons are accepted when travelling with kids. But in case of Food Coupons, the rejection rate when travelling with kids is lower than the acceptance rate.
    * Impact of Habit
-       * People who visit economical restaurants less than 1 or never are considered 'Not Frequent Visitors'. In case of (Restaurant<20) and Carry Out & Take Away coupons, even their acceptance rates are highers than the rejections.
+       * People who visit economical restaurants less than once in a month or never are considered 'Not Frequent Visitors'. In case of (Restaurant<20) and Carry Out & Take Away coupons, even the 'Not Frequent Visitors' acceptance rates are highers than the rejections.
    
       
     
