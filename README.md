@@ -5,7 +5,7 @@ This repository contains my Exploratory Data Analysis using python Pandas, matpl
 ## Overview
 This dataset, obtained from the UCI Machine Learning Repository, comprises approximately 12k records, collected via a survey conducted on Amazon Mechanical Turk. The survey outlines various driving scenarios, including details such as destination, age, income, weather conditions, passengers, and records respondents' decisions on whether they would accept a coupon while acting as the driver.
 
-**Link to Jupyter Notebook:**
+**Link to Jupyter Notebook:** https://github.com/dhanyavasan/exploratorydataanalysis/blob/main/EDA_Coupons_dataset.ipynb
 
 
 ## Key Insights:
