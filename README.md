@@ -36,6 +36,8 @@ This dataset, obtained from the UCI Machine Learning Repository, comprises appro
       * Initially it was stated that only 7% of overall coupons are accepted when travelling with kids. But in case of Food Coupons, the rejection rate when travelling with kids is lower than the acceptance rate.
    * Impact of Habit
        * People who visit economical restaurants less than once in a month or never are considered 'Not Frequent Visitors'. In case of (Restaurant<20) and Carry Out & Take Away coupons, even the 'Not Frequent Visitors' acceptance rates are highers than the rejections.
+    * Impact of Detour & Income
+        * It was observed that individuals with an annual income exceeding $50k are more likely to reject coupons that require a detour for redemption.
     
 ## Conclusion
 This Exploratory Data Analysis focused on an in-depth examination on **Bar Coupons Acceptance, (Restaurant<20) and Carry Out & Take Away coupons** while also uncovering several general patterns across the overall dataset. There are still numerous other scenarios that could be explored in greater detail.
