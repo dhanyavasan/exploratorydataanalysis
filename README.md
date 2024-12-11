@@ -38,6 +38,12 @@ This dataset, obtained from the UCI Machine Learning Repository, comprises appro
        * People who visit economical restaurants less than once in a month or never are considered 'Not Frequent Visitors'. In case of (Restaurant<20) and Carry Out & Take Away coupons, even the 'Not Frequent Visitors' acceptance rates are highers than the rejections.
     * Impact of Detour & Income
         * It was observed that individuals with an annual income exceeding $50k are more likely to reject coupons that require a detour for redemption.
+
+## Actionable Insights:**
+  - Design targeted marketing strategies for Bar Coupons to address their high rejection rates. This could include exclusive deals, shorter redemption times, or partnerships with popular destinations.
+  - Focus on promoting Food Coupons, especially among individuals who travel alone or frequently visit restaurants, as these groups exhibit the highest acceptance rates.
+  - Develop family-friendly coupon offerings to appeal to individuals traveling with children, emphasizing convenience and added value.
+
     
 ## Conclusion
 This Exploratory Data Analysis focused on an in-depth examination on **Bar Coupons Acceptance, (Restaurant<20) and Carry Out & Take Away coupons** while also uncovering several general patterns across the overall dataset. There are still numerous other scenarios that could be explored in greater detail.
